@@ -1,5 +1,5 @@
 # Wojsko - gra
 
-## Demo: [wojsko.krychaxp.pl](https://wojsko.krychaxp.pl)
+## Demo
 
-Jeśli masz jakieś propozycje/ulepszenia to pisz w issues.
+[https://wojsko.netlify.app/](https://wojsko.netlify.app/)
